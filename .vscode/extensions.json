@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-vscode.csharp",
+    "fernandoescolar.vscode-solution-explorer",
+    "swellaby.common-pack",
+    "pflannery.vscode-versionlens",
+    "ms-azure-devops.azure-pipelines"
+  ]
+}
