@@ -1,0 +1,47 @@
+{
+  "files.exclude": {
+    "**/bin/": true,
+    "**/obj/": true,
+    ".coverage": true,
+    ".testresults": true
+  },
+  "vssolution.createTemplateFolderQuestion": false,
+  "cSpell.enabled": true,
+  "cSpell.ignorePaths": [
+    "**/bin",
+    "**/obj",
+    "**/.git/**",
+    ".vscode",
+    ".vs",
+    "**/*.sln"
+  ],
+  "cSpell.enabledLanguageIds": [
+    "asciidoc",
+    "azure-pipelines",
+    "csharp",
+    "html",
+    "json",
+    "markdown",
+    "plaintext",
+    "powershell",
+    "properties",
+    "restructuredtext",
+    "shellscript",
+    "text",
+    "toml",
+    "yaml",
+    "yml"
+  ],
+  "cSpell.dictionaries": [
+    "companies",
+    "",
+    "en_us",
+    "filetypes",
+    "misc",
+    "powershell",
+    "softwareTerms"
+  ],
+  "files.associations": {
+    "**/.azure-pipelines/**": "azure-pipelines"
+  },
+}
