@@ -3,7 +3,8 @@
     "**/bin/": true,
     "**/obj/": true,
     ".coverage": true,
-    ".testresults": true
+    ".testresults": true,
+    ".vs/": true
   },
   "vssolution.createTemplateFolderQuestion": false,
   "cSpell.enabled": true,
